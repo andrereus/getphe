@@ -1,6 +1,7 @@
 {
   "name": "getphe",
   "version": "1.0.0",
+  "author": "Andre Reus",
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
