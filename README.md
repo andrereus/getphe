@@ -1,5 +1,3 @@
-:zap: In Progress
-
 ## Setup
 ```
 npm install
